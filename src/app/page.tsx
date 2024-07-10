@@ -2,7 +2,6 @@
 
 import { useEffect, useState } from "react";
 import { useFiglet, FigletFont } from "@/hooks/useFiglet";
-import { Input } from "@/components/ui/input";
 import AsciiText from "@/components/ascii-text";
 import { FontSelector } from "@/components/font-selector";
 import { ToolbarActions } from "@/components/tooolbar-actions";
